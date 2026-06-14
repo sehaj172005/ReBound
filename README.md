@@ -7,7 +7,7 @@
 [![Cloudinary](https://img.shields.io/badge/Images-Cloudinary-blue?logo=cloudinary)](https://cloudinary.com/)
 [![Groq](https://img.shields.io/badge/AI-Groq%20Llama3-orange)](https://groq.com/)
 
-**Rebound** is a serverless-first, full-stack Next.js student marketplace for buying and selling 2nd hand textbooks. It features AI-powered price suggestions, real-time chat, and a premium glassmorphic UI — deployed edge-ready on Vercel.
+**Rebound** is a full-stack student marketplace for buying and selling 2nd hand textbooks. It features AI-powered price suggestions, real-time chat, and a premium glassmorphic UI — deployed edge-ready on Vercel.
 
 ---
 
@@ -29,7 +29,7 @@
 
 | Layer | Technology |
 |---|---|
-| **Framework** | Next.js 16 (App Router, Turbopack, Server Components) |
+| **Framework** | Next.js 16 , ExpressJS |
 | **Styling** | Tailwind CSS 4 + Custom CSS (Glassmorphism) |
 | **Database** | MongoDB Atlas + Mongoose |
 | **Auth** | JWT (jsonwebtoken) + bcryptjs |
